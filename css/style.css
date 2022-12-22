@@ -57,18 +57,6 @@ section{
     text-transform: uppercase;
 }
 
-.heading{
-    text-align: center;
-    color:#fff;
-    text-transform: uppercase;
-    padding-bottom: 3.5rem;
-    font-size: 4rem;
-}
-
-.heading span{
-    color:var(--main-color);
-    text-transform: uppercase;
-}
 
 .btn{
     margin-top: 1rem;
@@ -308,6 +296,8 @@ section{
 .menu .box-container .box:hover > * {/* > * atodos los elementos dentro de box*/
     color: var(--black);
 }
+
+/* PRODUCTS */
 
 .products .box-container{
     display: grid;
